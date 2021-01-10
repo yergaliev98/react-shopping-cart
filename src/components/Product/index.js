@@ -13,7 +13,7 @@ export default function Product({ products }) {
               <img
                 className="product__img"
                 alt={product.title}
-                src={product.img}
+                src={process.env.PUBLIC_URL + product.img}
               />
             </a>
           </div>
