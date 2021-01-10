@@ -1,0 +1,12 @@
+.filter {
+  display: flex;
+  justify-content:space-between;
+  align-items: center;
+  margin:10px;
+  padding:10px;
+  border-bottom: #c0c0c0 solid 1px;
+} 
+
+.filter__item {
+  flex:1;
+}

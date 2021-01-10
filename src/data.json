@@ -1,0 +1,88 @@
+{
+  "products": [
+    {
+      "_id": "phone1",
+      "title": "APPLE IPHONE X",
+      "img": "/img/IphoneX.jpg",
+      "specification": {
+        "date" : { "year": 2017, "month":"September", "day" : null},
+        "dimensions": {"height": 143.6 , "width" : 70.9 , "length": 7.7},
+        "weight": 174,
+        "screen": "5.8,Super AMOLED",
+        "battery": 2716,
+        "sensors": "Face ID, accelerometer, gyro, proximity, compass, barometer"
+      },
+      "price": 29.9
+    },
+    {
+      "_id": "phone2",
+      "title": "SAMSUNG S8+",
+      "img": "/img/SamsungS8.jpg",
+      "specification": {
+        "date" : { "year" : 2017, "month" : "March", "day" : null},
+        "dimensions": {"height": 159.5, "width" : 73.4, "length": 8.1},
+        "weight": 173,
+        "screen": "6.2,Super AMOLED",
+        "battery": 3500,
+        "sensors": " Iris scanner, fingerprint (rear-mounted), accelerometer, gyro, proximity, compass, barometer, heart rate, SpO2"
+      },
+      "price": 18.9
+    },
+    {
+      "_id": "phone3",
+      "title": "ZTE NUBIA X ",
+      "img": "/img/ZTEX.jpg",
+      "specification": {
+        "date" : { "year": 2018, "month": "October", "day" : null},
+        "dimensions": {"height":154.1, "width" :73.3, "length": 8.4},
+        "weight": 181,
+        "screen": "6.26, LTPS IPS LCD",
+        "battery": 3800,
+        "sensors": "Dual fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "price": 14.9
+    },
+    {
+      "_id": "phone4",
+      "title": "HUAWEI P40",
+      "img": "/img/HuaweiP40.jpg",
+      "specification": {
+        "date" : { "year": 2019, "month" : "September", "day" : null},
+        "dimensions": {"height":143.6, "width" :70.9, "length":7.7},
+        "weight": 174,
+        "screen": "5.8,Super AMOLED",
+        "battery": 2716,
+        "sensors": "Face ID, accelerometer, gyro, proximity, compass, barometer"
+      },
+      "price": 25.9
+    },
+    {
+      "_id": "phone5",
+      "title": "HUAWEI P40 PRO",
+      "img": "/img/VivoY30.jpg",
+      "specification": {
+        "date" : {  "year": 2020, "month":"March", "day" : 26 },
+        "dimensions": {"height":158.2, "width" : 72.6, "length":9},
+        "weight": 209,
+        "screen": "5.8,Super AMOLED",
+        "battery": 4200,
+        "sensors": "Infrared face recognition, fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "price": 10.9
+    },
+    {
+      "_id": "phone6",
+      "title": "ONEPLUS 7T",
+      "img": "/img/OnePlus7T.jpg",
+      "specification": {
+        "date" : { "year" : 2019, "month" : "September", "day" : 26 },
+        "dimensions": {"height":160.9, "width" :74.4, "length":8.1},
+        "weight": 190,
+        "screen": "6.55, Fluid AMOLED",
+        "battery": 3800,
+        "sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "price": 49.9
+    }
+  ]
+}
